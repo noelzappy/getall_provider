@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "802838931518",
+    "project_id": "getall-africa",
+    "storage_bucket": "getall-africa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802838931518:android:c48f3b0908e9584503496f",
+        "android_client_info": {
+          "package_name": "com.getallafrica.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802838931518-689r4he8o3ugdeocv6m3ko3f34lt2ken.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdSmeqdj_QLbACAuPKLIpfFfkD9wA--8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802838931518-689r4he8o3ugdeocv6m3ko3f34lt2ken.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802838931518:android:9a2151e3aef0f12303496f",
+        "android_client_info": {
+          "package_name": "com.getallafrica.provider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802838931518-689r4he8o3ugdeocv6m3ko3f34lt2ken.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdSmeqdj_QLbACAuPKLIpfFfkD9wA--8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802838931518-689r4he8o3ugdeocv6m3ko3f34lt2ken.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
