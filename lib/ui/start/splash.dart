@@ -84,7 +84,6 @@ class _OnDemandSplashScreenState extends State<OnDemandSplashScreen> {
     return Scaffold(
         body: Stack(
           children: <Widget>[
-
           Container(
             child:  Image.asset("assets/splash.gif", fit: BoxFit.contain),
           ),

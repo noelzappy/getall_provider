@@ -343,8 +343,8 @@ class _AccountScreenState extends State<AccountScreen>  with TickerProviderState
                         theme.style20W800,
                         strings.get(57), /// "Press for view profile",
                         theme.style14W600Grey,
-                        Opacity(opacity: 0.5,
-                            child: Image.asset("assets/ondemand/ondemand6.png", fit: BoxFit.cover)),
+                        Opacity(opacity: 0,
+                            child:Image.asset("assets/ondemand/ondemand6.png", fit: BoxFit.cover)),
                         image16(userAccountData.userAvatar.isNotEmpty ?
                         CachedNetworkImage(
                             imageUrl: userAccountData.userAvatar,
