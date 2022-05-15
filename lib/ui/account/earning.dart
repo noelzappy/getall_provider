@@ -110,7 +110,7 @@ class _EarningScreenState extends State<EarningScreen> {
             alignment: Alignment.bottomRight,
             child: Container(
               width: windowWidth*0.3,
-              child: Image.asset("assets/ondemand/ondemand16.png", fit: BoxFit.cover),
+              child: Image.asset("assets/getimages/wallet.png", fit: BoxFit.cover),
             ),
             margin: EdgeInsets.only(bottom: 10, right: 20, left: 20),
           ),

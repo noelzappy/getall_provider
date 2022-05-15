@@ -69,6 +69,7 @@ flutter:
     - assets/fonts/
     - assets/ondemand/
     - assets/elements/
+    - assets/getimages/
 
   fonts:
     - family: Montserrat

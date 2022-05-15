@@ -128,7 +128,7 @@ class _NotifyScreenState extends State<NotifyScreen> {
             alignment: Alignment.bottomRight,
             child: Container(
               width: windowWidth*0.3,
-              child: Image.asset("assets/ondemand/ondemand17.png", fit: BoxFit.cover),
+              child: Image.asset("assets/getimages/notifications.png", fit: BoxFit.cover),
             ),
             margin: EdgeInsets.only(bottom: 10, right: 20, left: 20),
           ),
@@ -206,7 +206,7 @@ class _NotifyScreenState extends State<NotifyScreen> {
     }
 
     if (_empty) {
-      list.add(Center(child: Image.asset("assets/nofound.png")));
+      list.add(Center(child: Image.asset("assets/getimages/404.png")));
       list.add(Center(child: Text(strings.get(107), style: theme.style18W800Grey,),)); /// "Not found ...",
     }
 

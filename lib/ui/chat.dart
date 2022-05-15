@@ -132,7 +132,7 @@ class _ChatScreenState extends State<ChatScreen> {
             alignment: Alignment.bottomRight,
             child: Container(
               width: windowWidth*0.3,
-              child: Image.asset("assets/ondemand/ondemand21.png", fit: BoxFit.cover),
+              child: Image.asset("assets/getimages/chat.png", fit: BoxFit.cover),
             ),
             margin: EdgeInsets.only(bottom: 10, right: 20, left: 20),
           ),
